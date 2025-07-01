@@ -4,7 +4,7 @@
 To simulate a phishing attack using social engineering techniques and real-world email spoofing methods by crafting a fake Netflix security alert and capturing victim credentials via a cloned login page. This is done for educational and internship demonstration purposes only.
 
 # Tools Used:
-Tool	Purpose
+
 **MIP22** -	To generate the phishing URL (cloaked and secure)
 
 **SET** - (Social Engineer Toolkit)	For sending HTML phishing emails
