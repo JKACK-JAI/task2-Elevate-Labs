@@ -6,9 +6,13 @@ To simulate a phishing attack using social engineering techniques and real-world
 # Tools Used:
 Tool	Purpose
 **MIP22** -	To generate the phishing URL (cloaked and secure)
+
 **SET** - (Social Engineer Toolkit)	For sending HTML phishing emails
+
 **Python HTTP Server** -	Hosting the phishing page
+
 **Cloudflare Tunnel** - (trycloudflare)	Publicly exposing the phishing site
+
 Linux Terminal	Command execution & file logging
 
 # Steps Performed
